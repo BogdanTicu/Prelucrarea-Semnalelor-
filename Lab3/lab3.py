@@ -98,6 +98,4 @@ def Ex3():
     plt.show()
 
 
-# Apelarea funcției:
-# Ex3()
 Ex3()
